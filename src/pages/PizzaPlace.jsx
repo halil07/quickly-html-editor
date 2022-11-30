@@ -4,13 +4,11 @@ import 'grapesjs-preset-newsletter';
 
 // imports required css for grapejs
 import "grapesjs/dist/css/grapes.min.css";
-import App from '../App';
 
 function PizzaPlace() {
   const instance = useRef();
   return (
     <>
-	<App />
     <div >
       <GrapesjsReact
         id='grapesjs-react'
