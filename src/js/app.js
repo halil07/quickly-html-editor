@@ -305,6 +305,12 @@ const init = () => {
               }
             }
           },
+          'grapesjs-plugin-export': { 
+            'filenamePfx':'template',
+            root:{
+              'index.html': editor => juice(editor.getHtml() + '<style>'+editor.getCss()+'</style>'),
+            },
+           },
           'grapesjs-preset-webpage': {
             modalImportTitle: 'Import Template',
             modalImportLabel: '<div style="margin-bottom: 10px; font-size: 13px;">Paste here your HTML/CSS and click Import</div>',
