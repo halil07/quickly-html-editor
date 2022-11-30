@@ -1,35 +1,4 @@
-import {useRef} from 'react';
-import { GrapesjsReact } from 'grapesjs-react';
-import 'grapesjs-preset-newsletter';
-
-// imports required css for grapejs
-import "grapesjs/dist/css/grapes.min.css";
-
-function CoffeBreak() {
-  const instance = useRef();
-  return (
-    <>
-    <div >
-      <GrapesjsReact
-        id='grapesjs-react'
-        plugins={[
-          'grapesjs-preset-newsletter-v2',
-          'gjs-blocks-basic'
-        ]}
-        pluginsOpts={{
-          "grapesjs-preset-newsletter": {
-            inlineCss: true,
-          }
-        }}
-        onInit={(editor) => {
-          // Refs the instance of the editor
-          instance.current = editor;
-          editor.onReady(() => {
-
-            // Sets editor components
-            editor.setComponents(`
-			
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+export default `<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 	<!--[if gte mso 9]>
@@ -664,15 +633,4 @@ function CoffeBreak() {
 		</tr>
 	</table>
 </body>
-</html>
-
-			`);
-          });
-        }}
-      />
-    </div>
-    </>
-  )
-}
-
-export default CoffeBreak
+</html>`;
