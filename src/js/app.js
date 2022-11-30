@@ -1,4 +1,5 @@
 import juice from "juice";
+import grapesjs from "grapesjs"
 const imagesPath = './images';
 const images = [];
 const init = () => {
@@ -401,11 +402,7 @@ const init = () => {
         el.setAttribute('title', '');
       }
       
-      
-      // Store and load events
-      editor.on('storage:load', function(e) { console.log('Loaded ', e) });
-      editor.on('storage:store', function(e) { console.log('Stored ', e) });
-      
+           
       
       // Do stuff on load
       editor.on('load', function() {
@@ -451,4 +448,4 @@ const init = () => {
         openBlocksBtn && openBlocksBtn.set('active', 1);
       });      
 }
-init()
+setTimeout(init, 1000);
