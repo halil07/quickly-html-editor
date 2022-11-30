@@ -2,6 +2,10 @@ import juice from "juice";
 import grapesjs from "grapesjs"
 const imagesPath = './images';
 const images = [];
+if(localStorage){
+  localStorage.removeItem("gjsProject");
+}
+
 const init = () => {
     const editor  = grapesjs.init({
         height: '100%',
