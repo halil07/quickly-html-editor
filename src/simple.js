@@ -622,57 +622,18 @@ export default `
                             <tbody id="imoqzn" style="box-sizing: border-box;">
                               <tr id="irlnis" style="box-sizing: border-box;">
                                 <td align="center" id="i0vprl" style="box-sizing: border-box; padding-bottom: 30px;">
-                                  <table border="0" cellspacing="0" cellpadding="0" id="iep25i"
-                                    style="box-sizing: border-box;">
-                                    <tbody id="iwx6yi" style="box-sizing: border-box;">
-                                      <tr id="i233nj" style="box-sizing: border-box;">
-                                        <td width="55" id="ihhe0q" align="left" class="img"
-                                          style="box-sizing: border-box; font-size: 0pt; line-height: 0pt; text-align: left;">
-                                          <a href="#" target="_blank" id="ityc76"
-                                            style="box-sizing: border-box; color: #000001; text-decoration: none;"><img
-                                              src="images/ico_facebook_white.jpg" width="34" height="34" border="0" alt
-                                              id="i0zubx"
-                                              style="box-sizing: border-box; -ms-interpolation-mode: bicubic; undefined: undefined;"></a>
-                                        </td>
-                                        <td width="55" id="i2q7n9" align="left" class="img"
-                                          style="box-sizing: border-box; font-size: 0pt; line-height: 0pt; text-align: left;">
-                                          <a href="#" target="_blank" id="io5l79"
-                                            style="box-sizing: border-box; color: #000001; text-decoration: none;"><img
-                                              src="images/ico_twitter_white.jpg" width="34" height="34" border="0" alt
-                                              id="ig1sfl"
-                                              style="box-sizing: border-box; -ms-interpolation-mode: bicubic; undefined: undefined;"></a>
-                                        </td>
-                                        <td width="55" id="iyr9zr" align="left" class="img"
-                                          style="box-sizing: border-box; font-size: 0pt; line-height: 0pt; text-align: left;">
-                                          <a href="#" target="_blank" id="inrhbf"
-                                            style="box-sizing: border-box; color: #000001; text-decoration: none;"><img
-                                              src="images/ico_instagram_white.jpg" width="34" height="34" border="0" alt
-                                              id="iniowj"
-                                              style="box-sizing: border-box; -ms-interpolation-mode: bicubic; undefined: undefined;"></a>
-                                        </td>
-                                        <td width="34" id="il7i2f" align="left" class="img"
-                                          style="box-sizing: border-box; font-size: 0pt; line-height: 0pt; text-align: left;">
-                                          <a href="#" target="_blank" id="inm7ym"
-                                            style="box-sizing: border-box; color: #000001; text-decoration: none;"><img
-                                              src="images/ico_linkedin_white.jpg" width="34" height="34" border="0" alt
-                                              id="ic2fo5"
-                                              style="box-sizing: border-box; -ms-interpolation-mode: bicubic; undefined: undefined;"></a>
-                                        </td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
                                 </td>
                               </tr>
                               <tr id="i19kg2" style="box-sizing: border-box;">
                                 <td id="imsjuj" align="center" class="text-footer1 pb10"
                                   style="box-sizing: border-box; color: #999999; font-family: 'Lato', Arial,sans-serif; font-size: 14px; line-height: 20px; text-align: center; padding-bottom: 10px;">
-                                  Simply Organic - Free HTML Email Template
+                                  Bona Liva
                                 </td>
                               </tr>
                               <tr id="iqdu4a" style="box-sizing: border-box;">
                                 <td id="izjc0r" align="center" class="text-footer2 pb20"
                                   style="box-sizing: border-box; color: #999999; font-family: 'Lato', Arial,sans-serif; font-size: 12px; line-height: 26px; text-align: center; padding-bottom: 20px;">
-                                  East Pixel Bld. 99, Creative City 9000, Republic of Design
+                                  
                                 </td>
                               </tr>
                               <tr id="imr2xx" style="box-sizing: border-box;">
@@ -681,8 +642,7 @@ export default `
                                   <a href="#" target="_blank" id="ilo78e" class="link-grey-u"
                                     style="box-sizing: border-box; color: #999999; text-decoration: underline;"><span
                                       id="ihhy3j" class="link-grey-u"
-                                      style="box-sizing: border-box; color: #999999; text-decoration: underline;">Unsubscribe</span></a>
-                                  from this mailing list.
+                                      style="box-sizing: border-box; color: #999999; text-decoration: underline;">Abonelikten Çık</span></a>
                                 </td>
                               </tr>
                             </tbody>
